@@ -1,0 +1,55 @@
+{
+  "pl": {
+    "name": "Polski",
+    "texts": {
+      "SUBMIT_BUTTON": "Wyślij",
+      "AVERAGE": "Średnia",
+      "INVALID_EMAIL": "Nieporawny adres email",
+      "ONLY_NUMBERS": "Tylko liczby",
+      "INVALID_URL": "Niepoprawny URL",
+      "PROCEED_INFO": "Wpisz swoją odpowiedź i wyślij.",
+      "SCORE_IS": "Twój wynik",
+      "SHARE_RESULTS": "Podziel się",
+      "ANSWER_REQUIRED_TO_PROCEED": "Odpowiedź wymagana żeby przejsć dalej.",
+      "CHANGING_NOT_ALLOWED": "Nie można zmienić odpowiedzi",
+      "START_BUTTON": "Rozpocznij",
+      "INCORRECT_INPUT": "Niepoprawny wkład."
+    }
+  },
+
+  "jp": {
+    "name": "日本語",
+    "texts": {
+      "SUBMIT_BUTTON": "提出します",
+      "AVERAGE": "平均",
+      "INVALID_EMAIL": "あなたのフィールドが無効な電子メールアドレスを持っています",
+      "ONLY_NUMBERS": "数字のみが許可",
+      "INVALID_URL": "あなたのフィールドに無効なURLアドレスを持っています",
+      "PROCEED_INFO": "上記のあなたの答えを入力します。継続して次のキーを押し。",
+      "SCORE_IS": "あなたのスコアがあります",
+      "SHARE_RESULTS": "あなたの結果を共有",
+      "ANSWER_REQUIRED_TO_PROCEED": "答えは次の質問に進むために必要とされます。",
+      "CHANGING_NOT_ALLOWED": "答えを変更することは許可されていません",
+      "START_BUTTON": "始まるよ",
+      "INCORRECT_INPUT": "誤った入力が送ら。 再試行する。"
+    }
+  },
+
+  "en": {
+    "name": "English",
+    "texts": {
+      "SUBMIT_BUTTON": "Submit",
+      "AVERAGE": "Average",
+      "INVALID_EMAIL": "Your field has an invalid email address",
+      "ONLY_NUMBERS": "Only numbers allowed",
+      "INVALID_URL": "Your field has an invalid URL address",
+      "PROCEED_INFO": "Type your answer above. Press next to continue.",
+      "SCORE_IS": "Your score is",
+      "SHARE_RESULTS": "Share your results",
+      "ANSWER_REQUIRED_TO_PROCEED": "Answer is required to proceed to the next question.",
+      "CHANGING_NOT_ALLOWED": "Changing answer is not allowed",
+      "START_BUTTON": "Let's get started",
+      "INCORRECT_INPUT": "Incorrect inputs sent. Try again."
+    }
+  }
+}
