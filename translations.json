@@ -13,7 +13,8 @@
       "ANSWER_REQUIRED_TO_PROCEED": "Odpowiedź wymagana żeby przejsć dalej.",
       "CHANGING_NOT_ALLOWED": "Nie można zmienić odpowiedzi",
       "START_BUTTON": "Rozpocznij",
-      "INCORRECT_INPUT": "Niepoprawny wkład."
+      "INCORRECT_INPUT": "Niepoprawny wkład.",
+      "UPDATE": "Aktualizuj"
     }
   },
 
@@ -31,7 +32,8 @@
       "ANSWER_REQUIRED_TO_PROCEED": "答えは次の質問に進むために必要とされます。",
       "CHANGING_NOT_ALLOWED": "答えを変更することは許可されていません",
       "START_BUTTON": "始まるよ",
-      "INCORRECT_INPUT": "誤った入力が送ら。 再試行する。"
+      "INCORRECT_INPUT": "誤った入力が送ら。 再試行する。",
+      "UPDATE": "更新"
     }
   },
 
@@ -49,7 +51,8 @@
       "ANSWER_REQUIRED_TO_PROCEED": "Answer is required to proceed to the next question.",
       "CHANGING_NOT_ALLOWED": "Changing answer is not allowed",
       "START_BUTTON": "Let's get started",
-      "INCORRECT_INPUT": "Incorrect inputs sent. Try again."
+      "INCORRECT_INPUT": "Incorrect inputs sent. Try again.",
+      "UPDATE": "Update"
     }
   }
 }
