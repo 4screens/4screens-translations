@@ -14,7 +14,8 @@
       "CHANGING_NOT_ALLOWED": "Nie można zmienić odpowiedzi",
       "START_BUTTON": "Rozpocznij",
       "INCORRECT_INPUT": "Niepoprawny wkład.",
-      "UPDATE": "Aktualizuj"
+      "UPDATE": "Aktualizuj",
+      "SCORE_AND_OUTCOME_SHARE": "Zdobyłem $RESULT$ w quizie \"$TITLE$\". A ile ty zdobędziesz?"
     }
   },
 
@@ -33,7 +34,8 @@
       "CHANGING_NOT_ALLOWED": "答えを変更することは許可されていません",
       "START_BUTTON": "始まるよ",
       "INCORRECT_INPUT": "誤った入力が送ら。 再試行する。",
-      "UPDATE": "更新"
+      "UPDATE": "更新",
+      "SCORE_AND_OUTCOME_SHARE": "私は「$TITLE$」クイズで $RESULT$ を得ました。 あなたはどうですか？"
     }
   },
 
@@ -52,7 +54,8 @@
       "CHANGING_NOT_ALLOWED": "Changing answer is not allowed",
       "START_BUTTON": "Let's get started",
       "INCORRECT_INPUT": "Incorrect inputs sent. Try again.",
-      "UPDATE": "Update"
+      "UPDATE": "Update",
+      "SCORE_AND_OUTCOME_SHARE": "I got $RESULT$ on \"$TITLE$\" quiz. What about you?"
     }
   }
 }
