@@ -18,27 +18,6 @@
       "SCORE_AND_OUTCOME_SHARE": "Zdobyłem $RESULT$ w quizie \"$TITLE$\". A ile ty zdobędziesz?"
     }
   },
-
-  "jp": {
-    "name": "日本語",
-    "texts": {
-      "SUBMIT_BUTTON": "提出します",
-      "AVERAGE": "平均",
-      "INVALID_EMAIL": "あなたのフィールドが無効な電子メールアドレスを持っています",
-      "ONLY_NUMBERS": "数字のみが許可",
-      "INVALID_URL": "あなたのフィールドに無効なURLアドレスを持っています",
-      "PROCEED_INFO": "上記のあなたの答えを入力します。継続して次のキーを押し。",
-      "SCORE_IS": "あなたのスコアがあります",
-      "SHARE_RESULTS": "あなたの結果を共有",
-      "ANSWER_REQUIRED_TO_PROCEED": "答えは次の質問に進むために必要とされます。",
-      "CHANGING_NOT_ALLOWED": "答えを変更することは許可されていません",
-      "START_BUTTON": "始まるよ",
-      "INCORRECT_INPUT": "誤った入力が送ら。 再試行する。",
-      "UPDATE": "更新",
-      "SCORE_AND_OUTCOME_SHARE": "私は「$TITLE$」クイズで $RESULT$ を得ました。 あなたはどうですか？"
-    }
-  },
-
   "en": {
     "name": "English",
     "texts": {
