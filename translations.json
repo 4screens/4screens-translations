@@ -36,5 +36,138 @@
       "UPDATE": "Update",
       "SCORE_AND_OUTCOME_SHARE": "I got $RESULT$ on \"$TITLE$\" quiz. What about you?"
     }
+  },
+  "fr": {
+    "name": "Français",
+    "texts": {
+      "SUBMIT_BUTTON": "Soumettre",
+      "AVERAGE": "Moyenne",
+      "INVALID_EMAIL": "Votre domaine dispose d'une adresse e-mail valide",
+      "ONLY_NUMBERS": "Seuls les numéros autorisés",
+      "INVALID_URL": "Votre domaine a une adresse URL valide",
+      "PROCEED_INFO": "Tapez votre réponse ci-dessus. Appuyez sur suivant pour continuer.",
+      "SCORE_IS": "Ton score est",
+      "SHARE_RESULTS": "Partagez vos résultats",
+      "ANSWER_REQUIRED_TO_PROCEED": "Réponse est nécessaire pour passer à la question suivante.",
+      "CHANGING_NOT_ALLOWED": "Modification de réponse n'a pas le droit",
+      "START_BUTTON": "Commençons",
+      "INCORRECT_INPUT": "Entrées incorrectes envoyées. Réessayer.",
+      "UPDATE": "Mettre à jour",
+      "SCORE_AND_OUTCOME_SHARE": "Je me suis $RESULT$ sur quizz \"$TITLE$\". Et vous?"
+    }
+  },
+  "ge": {
+    "name": "Deutsch",
+    "texts": {
+      "SUBMIT_BUTTON": "Einreichen",
+      "AVERAGE": "Durchschnitt",
+      "INVALID_EMAIL": "Ihre Domain hat eine gültige E-Mail-Adresse",
+      "ONLY_NUMBERS": "Nur autorisierte Zahlen",
+      "INVALID_URL": "Ihre Domain hat eine gültige URL",
+      "PROCEED_INFO": "Geben Sie Ihre Antwort oben. Drücken Sie auf Weiter.",
+      "SCORE_IS": "Ihr Ergebnis ist",
+      "SHARE_RESULTS": "Sagen Sie Ihre Ergebnisse",
+      "ANSWER_REQUIRED_TO_PROCEED": "Reaktion ist notwendig, um die nächste Frage zu bewegen.",
+      "CHANGING_NOT_ALLOWED": "Antwort Änderung ist nicht erlaubt",
+      "START_BUTTON": "Start",
+      "INCORRECT_INPUT": "Gesendet Fehleingaben. Wiederholen.",
+      "UPDATE": "Aktualisierung",
+      "SCORE_AND_OUTCOME_SHARE": "Ich habe $RESULT$ auf \"$TITLE$\" Quiz. Was ist mit Ihnen?"
+    }
+  },
+  "es": {
+    "name": "Español",
+    "texts": {
+      "SUBMIT_BUTTON": "Enviar",
+      "AVERAGE": "Promedio",
+      "INVALID_EMAIL": "Su campo tiene una dirección de email no es válida",
+      "ONLY_NUMBERS": "Sólo los números autorizados",
+      "INVALID_URL": "Su campo tiene una dirección URL no válida",
+      "PROCEED_INFO": "Escriba su respuesta anterior. Pulse Siguiente para continuar",
+      "SCORE_IS": "tu puntaje es",
+      "SHARE_RESULTS": "Comparta sus resultados",
+      "ANSWER_REQUIRED_TO_PROCEED": "Se requiere respuesta para proceder a la siguiente pregunta.",
+      "CHANGING_NOT_ALLOWED": "No se permite el cambio de respuesta",
+      "START_BUTTON": "Empecemos",
+      "INCORRECT_INPUT": "Las entradas incorrectas enviaron. Inténtalo de nuevo.",
+      "UPDATE": "Actualizar",
+      "SCORE_AND_OUTCOME_SHARE": "Tengo $RESULT$ en concurso \"$TITLE$\". ¿Que pasa contigo?"
+    }
+  },
+  "po": {
+    "name": "Português",
+    "texts": {
+      "SUBMIT_BUTTON": "Enviar",
+      "AVERAGE": "Média",
+      "INVALID_EMAIL": "O campo tem um endereço de e-mail inválido",
+      "ONLY_NUMBERS": "Somente números permitidos",
+      "INVALID_URL": "O campo tem um endereço de URL inválido",
+      "PROCEED_INFO": "Digite sua resposta acima. Pressione próximo para continuar.",
+      "SCORE_IS": "Sua pontuação é",
+      "SHARE_RESULTS": "Compartilhe seus resultados",
+      "ANSWER_REQUIRED_TO_PROCEED": "Resposta é necessária para prosseguir para a próxima pergunta.",
+      "CHANGING_NOT_ALLOWED": "Alterar resposta não é permitido",
+      "START_BUTTON": "Vamos começar",
+      "INCORRECT_INPUT": "Entradas incorretas enviadas. Tente novamente.",
+      "UPDATE": "Atualizar",
+      "SCORE_AND_OUTCOME_SHARE": "Eu tenho $RESULT$ on teste \"$TITLE$\". E se você?"
+    }
+  },
+  "ua": {
+    "name": "Українська",
+    "texts": {
+      "SUBMIT_BUTTON": "Відправити",
+      "AVERAGE": "В середньому",
+      "INVALID_EMAIL": "Некорректна адреса e-mail",
+      "ONLY_NUMBERS": "Дозволені тільки цифри",
+      "INVALID_URL": "Некорректна адреса URL",
+      "PROCEED_INFO": "Введи свою відповідь і натисни Далі, щоб продовжити",
+      "SCORE_IS": "Твій результат",
+      "SHARE_RESULTS": "Поділитись результатами",
+      "ANSWER_REQUIRED_TO_PROCEED": "Введи відповідь, щоб продовжити",
+      "CHANGING_NOT_ALLOWED": "Не можна змінювати відповідь",
+      "START_BUTTON": "Розпочати",
+      "INCORRECT_INPUT": "Введені некоректні відповіді. Спробуй ще раз.",
+      "UPDATE": "Оновити",
+      "SCORE_AND_OUTCOME_SHARE": "Мій результат - $RESULT$ в \"$TITLE$\". А твій?"
+    }
+  },
+  "ru": {
+    "name": "Pусский",
+    "texts": {
+      "SUBMIT_BUTTON": "Отправить",
+      "AVERAGE": "Среднее",
+      "INVALID_EMAIL": "Некорректный адрес e-mail",
+      "ONLY_NUMBERS": "Разрешены только цифры",
+      "INVALID_URL": "Некорректный адрес URL",
+      "PROCEED_INFO": "Введи свой ответ. Нажми Далее, чтобы продолжить.",
+      "SCORE_IS": "Твой результат",
+      "SHARE_RESULTS": "Поделиться результатами",
+      "ANSWER_REQUIRED_TO_PROCEED": "Введи ответ, чтобы продолжить",
+      "CHANGING_NOT_ALLOWED": "Нельзя изменить ответ",
+      "START_BUTTON": "Начать",
+      "INCORRECT_INPUT": "Введены некорректные ответы. Попробуй еще раз",
+      "UPDATE": "Обновить",
+      "SCORE_AND_OUTCOME_SHARE": "Мой результат - $RESULT$ в \"$TITLE$\". Как насчет тебя?"
+    }
+  },
+  "it": {
+    "name": "Italiano",
+    "texts": {
+      "SUBMIT_BUTTON": "Invio",
+      "AVERAGE": "Media",
+      "INVALID_EMAIL": "Il campo ha un indirizzo email valido",
+      "ONLY_NUMBERS": "Solo numeri consentiti",
+      "INVALID_URL": "Il campo ha un indirizzo URL non valido",
+      "PROCEED_INFO": "Digitare la risposta di cui sopra. Premere avanti per continuare.",
+      "SCORE_IS": "Il tuo punteggio è",
+      "SHARE_RESULTS": "Condividi i tuoi risultati",
+      "ANSWER_REQUIRED_TO_PROCEED": "La risposta è stata necessaria per procedere alla domanda successiva.",
+      "CHANGING_NOT_ALLOWED": "Cambiare risposta non è consentito",
+      "START_BUTTON": "Iniziamo",
+      "INCORRECT_INPUT": "Input errati inviati. Riprova.",
+      "UPDATE": "Aggiornare",
+      "SCORE_AND_OUTCOME_SHARE": "Ho ottenuto $RESULT$ su quiz \"$TITLE$\". E tu?"
+    }
   }
 }
