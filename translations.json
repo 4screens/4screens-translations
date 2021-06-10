@@ -15,7 +15,8 @@
       "START_BUTTON": "Rozpocznij",
       "INCORRECT_INPUT": "Niepoprawny wkład.",
       "UPDATE": "Aktualizuj",
-      "SCORE_AND_OUTCOME_SHARE": "Zdobyłem $RESULT$ w quizie \"$TITLE$\". A ile ty zdobędziesz?"
+      "SCORE_AND_OUTCOME_SHARE": "Zdobyłem $RESULT$ w quizie \"$TITLE$\". A ile ty zdobędziesz?",
+      "OK": "Ok"
     }
   },
   "en": {
@@ -34,7 +35,8 @@
       "START_BUTTON": "Let's get started",
       "INCORRECT_INPUT": "Incorrect inputs sent. Try again.",
       "UPDATE": "Update",
-      "SCORE_AND_OUTCOME_SHARE": "I got $RESULT$ on \"$TITLE$\" quiz. What about you?"
+      "SCORE_AND_OUTCOME_SHARE": "I got $RESULT$ on \"$TITLE$\" quiz. What about you?",
+      "OK": "Ok"
     }
   },
   "fr": {
@@ -53,7 +55,8 @@
       "START_BUTTON": "Commençons",
       "INCORRECT_INPUT": "Entrées incorrectes envoyées. Réessayer.",
       "UPDATE": "Mettre à jour",
-      "SCORE_AND_OUTCOME_SHARE": "Je me suis $RESULT$ sur quizz \"$TITLE$\". Et vous?"
+      "SCORE_AND_OUTCOME_SHARE": "Je me suis $RESULT$ sur quizz \"$TITLE$\". Et vous?",
+      "OK": "Ok"
     }
   },
   "ge": {
@@ -72,7 +75,8 @@
       "START_BUTTON": "Start",
       "INCORRECT_INPUT": "Gesendet Fehleingaben. Wiederholen.",
       "UPDATE": "Aktualisierung",
-      "SCORE_AND_OUTCOME_SHARE": "Ich habe $RESULT$ auf \"$TITLE$\" Quiz. Was ist mit Ihnen?"
+      "SCORE_AND_OUTCOME_SHARE": "Ich habe $RESULT$ auf \"$TITLE$\" Quiz. Was ist mit Ihnen?",
+      "OK": "Ok"
     }
   },
   "es": {
@@ -91,7 +95,8 @@
       "START_BUTTON": "Empecemos",
       "INCORRECT_INPUT": "Las entradas incorrectas enviaron. Inténtalo de nuevo.",
       "UPDATE": "Actualizar",
-      "SCORE_AND_OUTCOME_SHARE": "Tengo $RESULT$ en concurso \"$TITLE$\". ¿Que pasa contigo?"
+      "SCORE_AND_OUTCOME_SHARE": "Tengo $RESULT$ en concurso \"$TITLE$\". ¿Que pasa contigo?",
+      "OK": "Ok"
     }
   },
   "po": {
@@ -110,7 +115,8 @@
       "START_BUTTON": "Vamos começar",
       "INCORRECT_INPUT": "Entradas incorretas enviadas. Tente novamente.",
       "UPDATE": "Atualizar",
-      "SCORE_AND_OUTCOME_SHARE": "Eu tenho $RESULT$ on teste \"$TITLE$\". E se você?"
+      "SCORE_AND_OUTCOME_SHARE": "Eu tenho $RESULT$ on teste \"$TITLE$\". E se você?",
+      "OK": "Ok"
     }
   },
   "ua": {
@@ -129,7 +135,8 @@
       "START_BUTTON": "Розпочати",
       "INCORRECT_INPUT": "Введені некоректні відповіді. Спробуй ще раз.",
       "UPDATE": "Оновити",
-      "SCORE_AND_OUTCOME_SHARE": "Мій результат - $RESULT$ в \"$TITLE$\". А твій?"
+      "SCORE_AND_OUTCOME_SHARE": "Мій результат - $RESULT$ в \"$TITLE$\". А твій?",
+      "OK": "Ok"
     }
   },
   "ru": {
@@ -148,7 +155,8 @@
       "START_BUTTON": "Начать",
       "INCORRECT_INPUT": "Введены некорректные ответы. Попробуй еще раз",
       "UPDATE": "Обновить",
-      "SCORE_AND_OUTCOME_SHARE": "Мой результат - $RESULT$ в \"$TITLE$\". Как насчет тебя?"
+      "SCORE_AND_OUTCOME_SHARE": "Мой результат - $RESULT$ в \"$TITLE$\". Как насчет тебя?",
+      "OK": "Ok"
     }
   },
   "it": {
@@ -167,7 +175,8 @@
       "START_BUTTON": "Iniziamo",
       "INCORRECT_INPUT": "Input errati inviati. Riprova.",
       "UPDATE": "Aggiornare",
-      "SCORE_AND_OUTCOME_SHARE": "Ho ottenuto $RESULT$ su quiz \"$TITLE$\". E tu?"
+      "SCORE_AND_OUTCOME_SHARE": "Ho ottenuto $RESULT$ su quiz \"$TITLE$\". E tu?",
+      "OK": "Ok"
     }
   }
 }
