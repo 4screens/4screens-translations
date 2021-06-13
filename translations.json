@@ -17,7 +17,7 @@
       "INCORRECT_INPUT": "Niepoprawny wkład.",
       "UPDATE": "Aktualizuj",
       "SCORE_AND_OUTCOME_SHARE": "Zdobyłem $RESULT$ w quizie \"$TITLE$\". A ile ty zdobędziesz?",
-      "OK": "Ok"
+      "OK": "OK"
     }
   },
   "en": {
@@ -38,7 +38,7 @@
       "INCORRECT_INPUT": "Incorrect inputs sent. Try again.",
       "UPDATE": "Update",
       "SCORE_AND_OUTCOME_SHARE": "I got $RESULT$ on \"$TITLE$\" quiz. What about you?",
-      "OK": "Ok"
+      "OK": "OK"
     }
   },
   "fr": {
@@ -59,7 +59,7 @@
       "INCORRECT_INPUT": "Entrées incorrectes envoyées. Réessayer.",
       "UPDATE": "Mettre à jour",
       "SCORE_AND_OUTCOME_SHARE": "Je me suis $RESULT$ sur quizz \"$TITLE$\". Et vous?",
-      "OK": "Ok"
+      "OK": "OK"
     }
   },
   "ge": {
@@ -80,7 +80,7 @@
       "INCORRECT_INPUT": "Gesendet Fehleingaben. Wiederholen.",
       "UPDATE": "Aktualisierung",
       "SCORE_AND_OUTCOME_SHARE": "Ich habe $RESULT$ auf \"$TITLE$\" Quiz. Was ist mit Ihnen?",
-      "OK": "Ok"
+      "OK": "OK"
     }
   },
   "es": {
@@ -101,7 +101,7 @@
       "INCORRECT_INPUT": "Las entradas incorrectas enviaron. Inténtalo de nuevo.",
       "UPDATE": "Actualizar",
       "SCORE_AND_OUTCOME_SHARE": "Tengo $RESULT$ en concurso \"$TITLE$\". ¿Que pasa contigo?",
-      "OK": "Ok"
+      "OK": "OK"
     }
   },
   "po": {
@@ -122,7 +122,7 @@
       "INCORRECT_INPUT": "Entradas incorretas enviadas. Tente novamente.",
       "UPDATE": "Atualizar",
       "SCORE_AND_OUTCOME_SHARE": "Eu tenho $RESULT$ on teste \"$TITLE$\". E se você?",
-      "OK": "Ok"
+      "OK": "OK"
     }
   },
   "ua": {
@@ -143,7 +143,7 @@
       "INCORRECT_INPUT": "Введені некоректні відповіді. Спробуй ще раз.",
       "UPDATE": "Оновити",
       "SCORE_AND_OUTCOME_SHARE": "Мій результат - $RESULT$ в \"$TITLE$\". А твій?",
-      "OK": "Ok"
+      "OK": "OK"
     }
   },
   "ru": {
@@ -164,7 +164,7 @@
       "INCORRECT_INPUT": "Введены некорректные ответы. Попробуй еще раз",
       "UPDATE": "Обновить",
       "SCORE_AND_OUTCOME_SHARE": "Мой результат - $RESULT$ в \"$TITLE$\". Как насчет тебя?",
-      "OK": "Ok"
+      "OK": "OK"
     }
   },
   "it": {
@@ -185,7 +185,7 @@
       "INCORRECT_INPUT": "Input errati inviati. Riprova.",
       "UPDATE": "Aggiornare",
       "SCORE_AND_OUTCOME_SHARE": "Ho ottenuto $RESULT$ su quiz \"$TITLE$\". E tu?",
-      "OK": "Ok"
+      "OK": "OK"
     }
   }
 }
