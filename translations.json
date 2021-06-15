@@ -11,13 +11,13 @@
       "SCORE_IS": "Twój wynik",
       "SHARE_RESULTS": "Podziel się",
       "ANSWER_REQUIRED_TO_PROCEED": "Odpowiedź wymagana żeby przejsć dalej.",
-      "MORE_ANSWERS_REQUIRED_TO_PROCEED": "Dodatkowa odpowiedź jest wymagana żeby przejsć dalej.",
+      "MORE_ANSWERS_REQUIRED_TO_PROCEED": "Zaznacz więcej odpowiedzi.",
       "CHANGING_NOT_ALLOWED": "Nie można zmienić odpowiedzi",
       "START_BUTTON": "Rozpocznij",
       "INCORRECT_INPUT": "Niepoprawny wkład.",
       "UPDATE": "Aktualizuj",
-      "SCORE_AND_OUTCOME_SHARE": "Zdobyłem $RESULT$ w quizie \"$TITLE$\". A ile ty zdobędziesz?",
-      "OK": "OK"
+      "OK": "OK",
+      "SCORE_AND_OUTCOME_SHARE": "Zdobyłem $RESULT$ w quizie \"$TITLE$\". A ile ty zdobędziesz?"
     }
   },
   "en": {
@@ -32,13 +32,13 @@
       "SCORE_IS": "Your score is",
       "SHARE_RESULTS": "Share your results",
       "ANSWER_REQUIRED_TO_PROCEED": "Answer is required to proceed to the next question.",
-      "MORE_ANSWERS_REQUIRED_TO_PROCEED": "Additional answer is required to proceed to the next question.",
+      "MORE_ANSWERS_REQUIRED_TO_PROCEED": "Please select more choices.",
       "CHANGING_NOT_ALLOWED": "Changing answer is not allowed",
       "START_BUTTON": "Let's get started",
       "INCORRECT_INPUT": "Incorrect inputs sent. Try again.",
       "UPDATE": "Update",
-      "SCORE_AND_OUTCOME_SHARE": "I got $RESULT$ on \"$TITLE$\" quiz. What about you?",
-      "OK": "OK"
+      "OK": "OK",
+      "SCORE_AND_OUTCOME_SHARE": "I got $RESULT$ on \"$TITLE$\" quiz. What about you?"
     }
   },
   "fr": {
@@ -53,13 +53,13 @@
       "SCORE_IS": "Ton score est",
       "SHARE_RESULTS": "Partagez vos résultats",
       "ANSWER_REQUIRED_TO_PROCEED": "Réponse est nécessaire pour passer à la question suivante.",
-      "MORE_ANSWERS_REQUIRED_TO_PROCEED": "Additional answer is required to proceed to the next question.",
+      "MORE_ANSWERS_REQUIRED_TO_PROCEED": "Veuillez sélectionner plus de choix.",
       "CHANGING_NOT_ALLOWED": "Modification de réponse n'a pas le droit",
       "START_BUTTON": "Commençons",
       "INCORRECT_INPUT": "Entrées incorrectes envoyées. Réessayer.",
       "UPDATE": "Mettre à jour",
-      "SCORE_AND_OUTCOME_SHARE": "Je me suis $RESULT$ sur quizz \"$TITLE$\". Et vous?",
-      "OK": "OK"
+      "OK": "OK",
+      "SCORE_AND_OUTCOME_SHARE": "Je me suis $RESULT$ sur quizz \"$TITLE$\". Et vous?"
     }
   },
   "ge": {
@@ -74,13 +74,13 @@
       "SCORE_IS": "Ihr Ergebnis ist",
       "SHARE_RESULTS": "Sagen Sie Ihre Ergebnisse",
       "ANSWER_REQUIRED_TO_PROCEED": "Reaktion ist notwendig, um die nächste Frage zu bewegen.",
-      "MORE_ANSWERS_REQUIRED_TO_PROCEED": "Additional answer is required to proceed to the next question.",
+      "MORE_ANSWERS_REQUIRED_TO_PROCEED": "Bitte wählen Sie mehr Auswahl.",
       "CHANGING_NOT_ALLOWED": "Antwort Änderung ist nicht erlaubt",
       "START_BUTTON": "Start",
       "INCORRECT_INPUT": "Gesendet Fehleingaben. Wiederholen.",
       "UPDATE": "Aktualisierung",
-      "SCORE_AND_OUTCOME_SHARE": "Ich habe $RESULT$ auf \"$TITLE$\" Quiz. Was ist mit Ihnen?",
-      "OK": "OK"
+      "OK": "OK",
+      "SCORE_AND_OUTCOME_SHARE": "Ich habe $RESULT$ auf \"$TITLE$\" Quiz. Was ist mit Ihnen?"
     }
   },
   "es": {
@@ -95,13 +95,13 @@
       "SCORE_IS": "tu puntaje es",
       "SHARE_RESULTS": "Comparta sus resultados",
       "ANSWER_REQUIRED_TO_PROCEED": "Se requiere respuesta para proceder a la siguiente pregunta.",
-      "MORE_ANSWERS_REQUIRED_TO_PROCEED": "Additional answer is required to proceed to the next question.",
+      "MORE_ANSWERS_REQUIRED_TO_PROCEED": "Seleccione más opciones.",
       "CHANGING_NOT_ALLOWED": "No se permite el cambio de respuesta",
       "START_BUTTON": "Empecemos",
       "INCORRECT_INPUT": "Las entradas incorrectas enviaron. Inténtalo de nuevo.",
       "UPDATE": "Actualizar",
-      "SCORE_AND_OUTCOME_SHARE": "Tengo $RESULT$ en concurso \"$TITLE$\". ¿Que pasa contigo?",
-      "OK": "OK"
+      "OK": "OK",
+      "SCORE_AND_OUTCOME_SHARE": "Tengo $RESULT$ en concurso \"$TITLE$\". ¿Que pasa contigo?"
     }
   },
   "po": {
@@ -116,13 +116,13 @@
       "SCORE_IS": "Sua pontuação é",
       "SHARE_RESULTS": "Compartilhe seus resultados",
       "ANSWER_REQUIRED_TO_PROCEED": "Resposta é necessária para prosseguir para a próxima pergunta.",
-      "MORE_ANSWERS_REQUIRED_TO_PROCEED": "Additional answer is required to proceed to the next question.",
+      "MORE_ANSWERS_REQUIRED_TO_PROCEED": "Selecione mais opções.",
       "CHANGING_NOT_ALLOWED": "Alterar resposta não é permitido",
       "START_BUTTON": "Vamos começar",
       "INCORRECT_INPUT": "Entradas incorretas enviadas. Tente novamente.",
       "UPDATE": "Atualizar",
-      "SCORE_AND_OUTCOME_SHARE": "Eu tenho $RESULT$ on teste \"$TITLE$\". E se você?",
-      "OK": "OK"
+      "OK": "OK",
+      "SCORE_AND_OUTCOME_SHARE": "Eu tenho $RESULT$ on teste \"$TITLE$\". E se você?"
     }
   },
   "ua": {
@@ -137,13 +137,13 @@
       "SCORE_IS": "Твій результат",
       "SHARE_RESULTS": "Поділитись результатами",
       "ANSWER_REQUIRED_TO_PROCEED": "Введи відповідь, щоб продовжити",
-      "MORE_ANSWERS_REQUIRED_TO_PROCEED": "Additional answer is required to proceed to the next question.",
+      "MORE_ANSWERS_REQUIRED_TO_PROCEED": "Виберіть більше варіантів.",
       "CHANGING_NOT_ALLOWED": "Не можна змінювати відповідь",
       "START_BUTTON": "Розпочати",
       "INCORRECT_INPUT": "Введені некоректні відповіді. Спробуй ще раз.",
       "UPDATE": "Оновити",
-      "SCORE_AND_OUTCOME_SHARE": "Мій результат - $RESULT$ в \"$TITLE$\". А твій?",
-      "OK": "OK"
+      "OK": "OK",
+      "SCORE_AND_OUTCOME_SHARE": "Мій результат - $RESULT$ в \"$TITLE$\". А твій?"
     }
   },
   "ru": {
@@ -158,13 +158,13 @@
       "SCORE_IS": "Твой результат",
       "SHARE_RESULTS": "Поделиться результатами",
       "ANSWER_REQUIRED_TO_PROCEED": "Введи ответ, чтобы продолжить",
-      "MORE_ANSWERS_REQUIRED_TO_PROCEED": "Additional answer is required to proceed to the next question.",
+      "MORE_ANSWERS_REQUIRED_TO_PROCEED": "Пожалуйста, выберите другие варианты.",
       "CHANGING_NOT_ALLOWED": "Нельзя изменить ответ",
       "START_BUTTON": "Начать",
       "INCORRECT_INPUT": "Введены некорректные ответы. Попробуй еще раз",
       "UPDATE": "Обновить",
-      "SCORE_AND_OUTCOME_SHARE": "Мой результат - $RESULT$ в \"$TITLE$\". Как насчет тебя?",
-      "OK": "OK"
+      "OK": "OK",
+      "SCORE_AND_OUTCOME_SHARE": "Мой результат - $RESULT$ в \"$TITLE$\". Как насчет тебя?"
     }
   },
   "it": {
@@ -179,13 +179,13 @@
       "SCORE_IS": "Il tuo punteggio è",
       "SHARE_RESULTS": "Condividi i tuoi risultati",
       "ANSWER_REQUIRED_TO_PROCEED": "La risposta è necessaria per procedere alla domanda successiva.",
-      "MORE_ANSWERS_REQUIRED_TO_PROCEED": "Additional answer is required to proceed to the next question.",
+      "MORE_ANSWERS_REQUIRED_TO_PROCEED": "Si prega di selezionare più scelte.",
       "CHANGING_NOT_ALLOWED": "Il cambio della tua risposta non è consentito",
       "START_BUTTON": "Iniziamo",
       "INCORRECT_INPUT": "Input errati inviati. Riprova.",
       "UPDATE": "Aggiornare",
-      "SCORE_AND_OUTCOME_SHARE": "Ho ottenuto $RESULT$ su quiz \"$TITLE$\". E tu?",
-      "OK": "OK"
+      "OK": "OK",
+      "SCORE_AND_OUTCOME_SHARE": "Ho ottenuto $RESULT$ su quiz \"$TITLE$\". E tu?"
     }
   }
 }
