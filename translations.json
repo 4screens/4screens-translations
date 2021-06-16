@@ -33,6 +33,7 @@
       "SHARE_RESULTS": "Share your results",
       "ANSWER_REQUIRED_TO_PROCEED": "Answer is required to proceed to the next question.",
       "MORE_ANSWERS_REQUIRED_TO_PROCEED": "Please select more choices.",
+      "NO_MORE_CHOICES_ALLOWED": "No more choices is allowed",
       "CHANGING_NOT_ALLOWED": "Changing answer is not allowed",
       "START_BUTTON": "Let's get started",
       "INCORRECT_INPUT": "Incorrect inputs sent. Try again.",
